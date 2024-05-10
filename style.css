@@ -57,7 +57,7 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(../images/YUJI.jpg);
+  background-image: url(YUJI.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
